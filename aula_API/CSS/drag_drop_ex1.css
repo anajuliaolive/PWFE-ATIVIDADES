@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(84, 105, 87)
+}
+#div1 {
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(197, 218, 211);
+    border-radius: 30px;
+    margin-left: 420px;
+    margin-top: 200px;
+}
+
+#div2 {
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(197, 218, 211);
+    border-radius: 30px;
+    margin-top: 200px;
+}
+
+#img{
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+#text{
+    color: aliceblue;
+    margin-left: 600px;
+    margin-top: 60px;
+}
